@@ -27,6 +27,8 @@ Clone the repository to your local machine and open the server.js on your Termin
 
 [Deployed Heroku App](https://toxicity2000.herokuapp.com/)
 
+![gif of deployed site](/mockups/assets/images/toxicity.gif)
+
 
 
 ## Credits
